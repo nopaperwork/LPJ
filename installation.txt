@@ -1,0 +1,14 @@
+Copy both folder - System specific
+Install Python
+Chrome browser is required
+PO_tracker folder - Open CMD (write cmd and type -> pip install -r requirements.txt)
+Configure.py
+Input folder check 
+(Note - 
+Ensure Sheet name is in the excel file name at the end in below format) 
+--SheetNAME in xlsx file
+CHROME PATH - change that based on system
+Difference days parameter - DIFF_DAYS
+
+
+	
